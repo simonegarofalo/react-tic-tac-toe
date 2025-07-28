@@ -44,6 +44,7 @@ Click the Restart button to play again.
 
 ### Project structure
 
+```text
 src/
 ├── App.jsx
 ├── index.js
@@ -51,7 +52,7 @@ src/
 
 public/
 ├── index.html
-
+```
 
 ---
 
