@@ -37,7 +37,7 @@ npm run dev
 Click on an empty square to make your move.
 Players take turns (X starts first).
 Once a player wins, the game stops.
-Click the 🔄 Restart button to play again.
+Click the Restart button to play again.
 
 ---
 
@@ -69,4 +69,4 @@ Handling reset functionality with React state
 
 Developed by simonegarofalo
 
-Feel free to fork, use, or contribute to the project!
+Feel free to fork, use, or contribute to the project
