@@ -29,6 +29,7 @@ git clone https://github.com/tuo-username/tic-tac-toe-react.git
 cd tic-tac-toe-react
 npm install
 npm run dev
+```
 
 ---
 
