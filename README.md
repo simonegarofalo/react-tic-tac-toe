@@ -25,24 +25,15 @@ Developed as a learning exercise following a React tutorial, with a custom imple
 ## Installation
 
 ```bash
-git clone https://github.com/tuo-username/tic-tac-toe-react.git
-cd tic-tac-toe-react
+git clone https://github.com/simonegarofalo/react-tic-tac-toe.git
+cd react-tic-tac-toe
 npm install
-npm run dev
+npm start
 ```
 
 ---
 
-## How to play
-
-Click on an empty square to make your move.
-Players take turns (X starts first).
-Once a player wins, the game stops.
-Click the Restart button to play again.
-
----
-
-### Project structure
+## Project structure
 
 ```text
 src/
@@ -55,6 +46,16 @@ public/
 ```
 
 ---
+
+### How to play
+
+Click on an empty square to make your move.
+Players take turns (X starts first).
+Once a player wins, the game stops.
+Click the Restart button to play again.
+
+---
+
 
 ### What I Learned
 
@@ -72,4 +73,4 @@ Handling reset functionality with React state
 
 Developed by <a href="https://github.com/simonegarofalo">simonegarofalo</a>
 
-Feel free to fork, use, or contribute to the project
+Feel free to fork, use, or contribute to the project.
