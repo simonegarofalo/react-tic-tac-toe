@@ -43,14 +43,15 @@ Click the Restart button to play again.
 ---
 
 ### Project structure
+
 src/
-│
 ├── App.jsx
 ├── index.js
 ├── index.css
+
 public/
-│
 ├── index.html
+
 
 ---
 
@@ -68,6 +69,6 @@ Handling reset functionality with React state
 
 ---
 
-Developed by simonegarofalo
+Developed by <a href="https://github.com/simonegarofalo">simonegarofalo</a>
 
 Feel free to fork, use, or contribute to the project
